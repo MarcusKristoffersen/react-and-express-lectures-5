@@ -1,9 +1,9 @@
 Heroku
 ======
 
-* [ ] Simple Express application
-* [ ] Static pages
-* [ ] Deploy to Heroku
+* [x] Simple Express application
+* [x] Static pages
+* [x] Deploy to Heroku
 * [ ] API methods GET POST /login
 * [ ] Bonus: prettier with Husky
 * [ ] React application with React Router
